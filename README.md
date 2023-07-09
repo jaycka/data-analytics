@@ -23,9 +23,18 @@ For more information please check my [Kaggle page](https://www.kaggle.com/angelc
 ![day-74](./img/day74-google-trend.png)  
 
 5. Plotly-analyzing-Google-playstore-appdata: Wrestle the Android App Store Data into Beautiful Looking Charts with Plotly.  
-[open Google Colab page](https://drive.google.com/file/d/1hJM8nxeap4ejesG7LYB8GfvMQJPCD_um/view?usp=sharing)  
+[open Google Colab page](https://colab.research.google.com/drive/1Ngxezt33BE1AIbHhQSoXSieSirOHGU0t?usp=sharing)  
 ![day75-screenshot](./img/day75-plotly-analyzing-google-playstore.gif)  
 ![day75-1](./img/day75-google-playstore1.png)  
 ![day75-2](./img/day75-google-playstore2.png)  
 ![day75-3](./img/day75-google-playstore3.png)  
 ![day75-4](./img/day75-google-playstore4.png)  
+
+6. Computation-with-Numpy: Review basic `numpy` methods and functions, including `arange`, `linspace`, `np.random.random`, image manipulation using array and the concept of `scalar` and `broadcasting`- "NumPy will make the shape of the smaller array - our scalar - compatible with the larger array".  
+[open Google Colab page](https://colab.research.google.com/drive/1JaFKdppfdIZ_uBfiOAuC4uhn8F5NDQRU?usp=sharing)  
+![day76-1](./img/day76-data-with-numpy.gif) 
+![day76-2](./img/day76-recoon.png)   
+![day76-2](./img/day76-recoon-grey.png)  
+![day76-2](./img/day76-recoon-grey2.png)  
+![day76-2](./img/day76-recoon-grey34.png)  
+
