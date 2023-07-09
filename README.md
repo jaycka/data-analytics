@@ -1,11 +1,10 @@
-# data-analytics
+# Data Analytics
 Here are my data analytics related works.  
-I only update this repo occasionaly.
-
-
+I only update this repo occasionaly.  
+## Projects
 1. Day71-data-exploration-with-pandas: Learn the basic concept and functions of `pandas` module, get used to `.ipynb` notebook enviroment.  
 [Try it out](https://colab.research.google.com/drive/1M6zKkEcVuUa2faFtK4MkyPiDTF_oS-PD?usp=sharing)  
-![day71-pandas-colab](https://github.com/jaycka/python3-projects/blob/main/img/day71-data-science.gif?raw=true)  
+![day71-pandas-colab](./img/day71-data-science.gif)  
 
 2. Day72-data-visualization-matplotlib: Performed EDA on dataset using `pandas` then learn the basic functions and methods of `matplotlib` lib, analyze programming language trends using StackExchange query data.  
 [Try it out](https://colab.research.google.com/drive/1ZbayOu2tKXJW_W7O__z5ZQ_RV4s1-BNr?usp=sharing)  
