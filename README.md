@@ -1,6 +1,7 @@
 # Data Analytics
 Here are my data analytics related works.  
-I only update this repo occasionally.  
+I only update this repo occasionally, for records keeping purposes.  
+For more information please check my [Kaggle page](https://www.kaggle.com/angelcc), thanks!  
 ## Projects
 1. Data-exploration-with-pandas: Learn the basic concept and functions of `pandas` module, get used to `.ipynb` notebook enviroment.  
 [Try it out](https://colab.research.google.com/drive/1M6zKkEcVuUa2faFtK4MkyPiDTF_oS-PD?usp=sharing)  
