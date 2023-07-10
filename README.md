@@ -38,3 +38,7 @@ For more information please check my [Kaggle page](https://www.kaggle.com/angelc
 ![day76-2](./img/day76-recoon-grey2.png)  
 ![day76-2](./img/day76-recoon-grey34.png)  
 
+7. **Linear-Regression-with-scikit-learn-and-seaborn:** Dive into movie box office data and explore the relationship between move production budget and its gross income, using linear regression from `scikit-learn` and plot beautiful graphs using `matplotlib` + `seaborn`.  
+[open Google Colab page](https://colab.research.google.com/drive/1eyAri1k7wACnbbty5lbn4nWTBOx6rzVM?usp=sharing)  
+![day77-1](./img/day77-linear-regression-seaborn.gif)  
+![day77-2](./img/day77-1.png)  
