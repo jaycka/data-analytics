@@ -42,3 +42,11 @@ For more information please check my [Kaggle page](https://www.kaggle.com/angelc
 [open Google Colab page](https://colab.research.google.com/drive/1eyAri1k7wACnbbty5lbn4nWTBOx6rzVM?usp=sharing)  
 ![day77-1](./img/day77-linear-regression-seaborn.gif)  
 ![day77-2](./img/day77-1.png)  
+
+8. **Analyze-Nobel-prize-with-plotly-matplotlib-seaborn:** Analyse a dataset on the past winners of the Nobel Prize using `pandas` and `numpy`, viz with `plotly`, `matplotlib` and `seaborn`.  
+[open Google Colab page](https://colab.research.google.com/drive/1ZulTM0NykyPPL4h5o5y5COpnLP5wtv6L?usp=sharing)  
+![day78-1](./img/day78-nobel-prize-with-plotly-matplotlib-seaborn.gif)  
+![day78-1](./img/day78-2.png)  
+![day78-1](./img/day78-3.png)  
+![day78-1](./img/day78-5.png)  
+![day78-1](./img/day78-6.png)  
