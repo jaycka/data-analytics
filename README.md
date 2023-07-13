@@ -52,8 +52,14 @@ For more information please check my [Kaggle page](https://www.kaggle.com/angelc
 ![day78-1](./img/day78-6.png)  
 
 9. **Analysis-of-Handwashing-Ttests-and-Distributions:** Analyzing the effect of Dr. Ignaz Semmelweis's implementation of handwashing for Vienna General Hospital in 1840s, using t-tests and distributions.  
-[open Google](https://colab.research.google.com/drive/1HQeV68YywJjRc69mvuI6gIr6_ZJpAQgT?usp=sharing)  
+[Google Colab](https://colab.research.google.com/drive/1HQeV68YywJjRc69mvuI6gIr6_ZJpAQgT?usp=sharing)  
 ![day79-handwashing](./img/day79-washing-hands.gif)  
 ![day79-1](./img/day79-1.png)  
 ![day79-2](./img/day79-2.png)  
 ![day79-3](./img/day79-3.png)  
+
+10. **Predict-Boston-Housing-Price:** using multivariate regression and valuation model from `scikit-learn` package.  
+[Google Colab](https://colab.research.google.com/drive/12UqogkL4kdmLuye39t_qSp0p3DkKWcZL?usp=sharing)  
+![day80-boston](./img/day80-predict-boston-housing-price.gif)  
+![day80-1](./img/day80-1.png)  
+![day80-2](./img/day80-2.png)  
